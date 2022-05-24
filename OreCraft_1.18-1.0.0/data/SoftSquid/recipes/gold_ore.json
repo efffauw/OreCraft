@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:gold_ore",
+    "count": 1
+  }
+}
